@@ -9,4 +9,8 @@ class MiComponente1 extends Component {
             </div> );
     }
 }
-export default MiComponente1; 
+export default MiComponente1;    
+
+
+
+
